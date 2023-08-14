@@ -1,16 +1,11 @@
-# binary_clock
+# Binary Clock
 
-A new Flutter project.
+an app for showing the time in digits based on 0 and 1 bits
 
-## Getting Started
+## screenshot
+![binaryclock](https://github.com/merihcavdar/binary_clock/assets/84540989/d7a163a5-0c49-4340-91bc-1c62374b7715)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- intl package
+- radix usage for converting to 1s and 0s
+- custom widgets
